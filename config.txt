@@ -1,4 +1,4 @@
-token=NTIwNjUwMTc2MDQyMzY5MDI0.Duw8zQ.sPRcyY6FlVNfoTAuzYDvYm1m51Y
+token=NTIwNjUwMjUyNzk4MjYzMjk3.Duw84w.WobOJx3AJNBnetLeSqLm84YP7k0
 owner=332110237165289472
 prefix= E
 game= Eplay l Ehelp
